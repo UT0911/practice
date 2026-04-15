@@ -1,5 +1,5 @@
 #include "test.hpp"
 
 int member3() {
-	return 1;
+	return 6;
 }
